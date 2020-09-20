@@ -233,7 +233,7 @@ class ModBusTCPAdapterLauncher(Launcher):
                                             if tk == 1:
                                                 # Дверь открыта
 
-                                                value='True'
+                                                value=True
                                                 #  Запомнить состояние освещения
                                                 #     погасить свет
                                                 #
@@ -252,7 +252,7 @@ class ModBusTCPAdapterLauncher(Launcher):
                                                 ###
                                                 ###
                                             if tk == 0:
-                                                value='False'
+                                                value=False
 
 
                                             #value = VariableTRS3(None, int(BUS_ID), 0, tk)
