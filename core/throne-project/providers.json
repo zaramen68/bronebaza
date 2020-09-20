@@ -1,0 +1,114 @@
+{
+ "providers": [
+  {
+   "attributes": {
+    "device": 3, 
+    "binding": "Device", 
+    "group": 0
+   }, 
+   "type": "RapidaDaliDimmer", 
+   "id": 111427, 
+   "key": "16f0d37a-53e5-43f5-9c30-fa8f65d63797", 
+   "managerID": 3171
+  }, 
+  {
+   "attributes": {
+    "device": 1, 
+    "binding": "Device", 
+    "group": 0
+   }, 
+   "type": "RapidaDaliDimmer", 
+   "id": 111428, 
+   "key": "b391e10c-9bb5-42ad-ae60-d492581dc8b2", 
+   "managerID": 3171
+  }, 
+  {
+   "attributes": {
+    "device": 4, 
+    "binding": "Device", 
+    "group": 0
+   }, 
+   "type": "RapidaDaliDimmer", 
+   "id": 111429, 
+   "key": "2e548b71-2c3f-43fe-baa6-5ec4cf7419ce", 
+   "managerID": 3171
+  }, 
+  {
+   "attributes": {
+    "device": 2, 
+    "binding": "Device", 
+    "group": 0
+   }, 
+   "type": "RapidaDaliDimmer", 
+   "id": 111430, 
+   "key": "9aabe64e-69e6-41a1-8c93-c88e38e8eeaa", 
+   "managerID": 3171
+  }, 
+  {
+   "attributes": {
+    "device": 5, 
+    "binding": "Device", 
+    "group": 0
+   }, 
+   "type": "RapidaDaliDimmer", 
+   "id": 111431, 
+   "key": "c86dc58d-4f48-42d2-8d9b-17e0e880f021", 
+   "managerID": 3171
+  }, 
+  {
+   "attributes": {
+    "device": 0, 
+    "binding": "Device", 
+    "group": 0
+   }, 
+   "type": "RapidaDaliDimmer", 
+   "id": 111432, 
+   "key": "bba04728-7b08-4035-84b6-7981daeeea82", 
+   "managerID": 3171
+  }, 
+  {
+   "attributes": {
+    "device": 6, 
+    "binding": "Device", 
+    "group": 0
+   }, 
+   "type": "RapidaDaliRelay", 
+   "id": 111433, 
+   "key": "9373dff6-fe6b-407d-b9de-888b06cfc9a3", 
+   "managerID": 3171
+  }, 
+  {
+   "attributes": {
+    "device": 7, 
+    "binding": "Device", 
+    "group": 0
+   }, 
+   "type": "RapidaDaliRelay", 
+   "id": 111434, 
+   "key": "a0fe20d3-582c-4929-877e-640146f8b767", 
+   "managerID": 3171
+  }, 
+  {
+   "attributes": {
+    "device": 8, 
+    "binding": "Device", 
+    "group": 0
+   }, 
+   "type": "RapidaDaliRelay", 
+   "id": 111435, 
+   "key": "628c1c54-ff1b-41ba-9be5-123811737a1b", 
+   "managerID": 3171
+  }, 
+  {
+   "attributes": {
+    "device": 9, 
+    "binding": "Device", 
+    "group": 0
+   }, 
+   "type": "RapidaDaliRelay", 
+   "id": 111436, 
+   "key": "6776f8ba-38ee-44c5-9dd6-a331b72c5f2d", 
+   "managerID": 3171
+  }
+ ]
+}

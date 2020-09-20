@@ -1,0 +1,17 @@
+{
+ "managers": [
+  {
+    "attributes": {
+      "interface": "Send/0/Dali",
+      "module": 1,
+      "pollRate": 250,
+      "channel": 0,
+      "class": 1
+    }, 
+   "serverID": 2537, 
+   "type": "RapidaDali", 
+   "id": 3171, 
+   "key": "5a0b1e33-e5f9-40b2-b526-c0510308528a"
+  }
+ ]
+}

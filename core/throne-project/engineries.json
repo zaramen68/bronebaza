@@ -1,0 +1,368 @@
+{
+ "engineries": [
+  {
+   "name": "4", 
+   "label": "4", 
+   "key": "21741955-15e5-4d0e-ad62-d14aed208a6b", 
+   "attributes": {
+    "url": "rtsp://admin:admin@192.168.1.181:554/live/main", 
+    "codec": "Auto"
+   }, 
+   "type": "Camera", 
+   "id": 614524
+  }, 
+  {
+   "name": "3", 
+   "label": "3", 
+   "key": "faa1e364-b4b8-46f3-90a3-bec9fdc540b1", 
+   "attributes": {
+    "url": "rtsp://admin:admin@192.168.1.179:554/live/main", 
+    "codec": "Auto"
+   }, 
+   "type": "Camera", 
+   "id": 634528
+  }, 
+  {
+   "name": "2", 
+   "label": "2", 
+   "key": "0ec145a5-672c-4de8-b34e-287838b90c5c", 
+   "attributes": {
+    "url": "rtsp://admin:admin@192.168.1.180:554/live/main", 
+    "codec": "Auto"
+   }, 
+   "type": "Camera", 
+   "id": 634529
+  }, 
+  {
+   "name": "1", 
+   "label": "1", 
+   "key": "7755e020-4a37-4cff-bd35-1165eda94675", 
+   "attributes": {
+    "url": "rtsp://admin:admin@192.168.1.178:554/live/main", 
+    "codec": "Auto"
+   }, 
+   "type": "Camera", 
+   "id": 634530
+  }, 
+  {
+   "type": "TemperatureSensor", 
+   "id": 635558, 
+   "key": "67d7146b-30b0-4c41-bf0f-fb72b78a6208", 
+   "label": "11"
+  }, 
+  {
+   "recipe": {
+    "type": "Simple", 
+    "ingredients": [
+     {
+      "index": 0, 
+      "type": "Solid", 
+      "id": 111429
+     }
+    ]
+   }, 
+   "label": "14", 
+   "key": "97fa71ef-97ae-43f3-9941-6029899bc1bf", 
+   "attributes": {
+    "positionCount": 101, 
+    "lowerLimit": 0, 
+    "power": 0, 
+    "upperLimit": 100
+   }, 
+   "type": "DimmingLight", 
+   "id": 635561
+  }, 
+  {
+   "recipe": {
+    "type": "Simple", 
+    "ingredients": [
+     {
+      "index": 0, 
+      "type": "Solid", 
+      "id": 111430
+     }
+    ]
+   }, 
+   "label": "15", 
+   "key": "b251010b-e223-425b-bf7f-7a295324e2c8", 
+   "attributes": {
+    "positionCount": 101, 
+    "lowerLimit": 0, 
+    "power": 0, 
+    "upperLimit": 100
+   }, 
+   "type": "DimmingLight", 
+   "id": 635562
+  }, 
+  {
+   "recipe": {
+    "type": "Simple", 
+    "ingredients": [
+     {
+      "index": 0, 
+      "type": "Solid", 
+      "id": 111431
+     }
+    ]
+   }, 
+   "label": "16", 
+   "key": "bf478eaf-2e97-40ff-9c83-7d2207e0ce71", 
+   "attributes": {
+    "positionCount": 101, 
+    "lowerLimit": 0, 
+    "power": 0, 
+    "upperLimit": 100
+   }, 
+   "type": "DimmingLight", 
+   "id": 635563
+  }, 
+  {
+   "recipe": {
+    "type": "Simple", 
+    "ingredients": [
+     {
+      "index": 0, 
+      "type": "Solid", 
+      "id": 111432
+     }
+    ]
+   }, 
+   "label": "17", 
+   "key": "427c7981-2f9d-49ef-9fa3-afb88894df89", 
+   "attributes": {
+    "positionCount": 101, 
+    "lowerLimit": 0, 
+    "power": 0, 
+    "upperLimit": 100
+   }, 
+   "type": "DimmingLight", 
+   "id": 635564
+  }, 
+  {
+   "type": "TemperatureSensor", 
+   "id": 636604, 
+   "key": "f8b0b124-62f1-4b51-9ba6-d03670e27cbc", 
+   "label": "18"
+  }, 
+  {
+   "recipe": {
+    "type": "Simple", 
+    "ingredients": [
+     {
+      "index": 0, 
+      "type": "Solid", 
+      "id": 111434
+     }
+    ]
+   }, 
+   "label": "7", 
+   "key": "3bf2b183-9d46-490c-8c4c-5bd573f2b057", 
+   "attributes": {
+    "power": 0
+   }, 
+   "type": "SwitchingLight", 
+   "id": 659853
+  }, 
+  {
+   "recipe": {
+    "type": "Simple", 
+    "ingredients": [
+     {
+      "index": 0, 
+      "type": "Solid", 
+      "id": 111435
+     }
+    ]
+   }, 
+   "label": "8", 
+   "key": "1fdd2591-6877-40cd-a8b1-4d08caf03634", 
+   "attributes": {
+    "power": 0
+   }, 
+   "type": "SwitchingLight", 
+   "id": 659854
+  }, 
+  {
+   "recipe": {
+    "type": "Simple", 
+    "ingredients": [
+     {
+      "index": 0, 
+      "type": "Solid", 
+      "id": 111436
+     }
+    ]
+   }, 
+   "label": "9", 
+   "key": "82136910-fbf5-4a59-bc32-300866ec702c", 
+   "attributes": {
+    "power": 0
+   }, 
+   "type": "SwitchingLight", 
+   "id": 659855
+  }, 
+  {
+   "recipe": {
+    "type": "Simple", 
+    "ingredients": [
+     {
+      "index": 0, 
+      "type": "Solid", 
+      "id": 111433
+     }
+    ]
+   }, 
+   "label": "19", 
+   "key": "8e013db2-0b06-4c35-aea0-801438d78097", 
+   "attributes": {
+    "power": 0
+   }, 
+   "type": "SwitchingLight", 
+   "id": 659856
+  }, 
+  {
+   "recipe": {
+    "type": "Simple", 
+    "ingredients": [
+     {
+      "index": 0, 
+      "type": "Solid", 
+      "id": 111427
+     }
+    ]
+   }, 
+   "label": "12", 
+   "key": "bdd78483-6cb7-4f0f-94f1-182735f4c543", 
+   "attributes": {
+    "positionCount": 101, 
+    "lowerLimit": 0, 
+    "power": 0, 
+    "upperLimit": 100
+   }, 
+   "type": "DimmingLight", 
+   "id": 659939
+  }, 
+  {
+   "recipe": {
+    "type": "Simple", 
+    "ingredients": [
+     {
+      "index": 0, 
+      "type": "Solid", 
+      "id": 111428
+     }
+    ]
+   }, 
+   "label": "13", 
+   "key": "25ec4a88-9dc0-4abb-b776-54ebc95f2f71", 
+   "attributes": {
+    "positionCount": 101, 
+    "lowerLimit": 0, 
+    "power": 0, 
+    "upperLimit": 100
+   }, 
+   "type": "DimmingLight", 
+   "id": 659940
+  }, 
+  {
+   "type": "Shutter", 
+   "id": 660034, 
+   "key": "9805de0e-c059-44e6-901f-0928ea4a4192", 
+   "label": "36"
+  }, 
+  {
+   "attributes": {
+    "direction": "CloseDown"
+   }, 
+   "type": "Blind", 
+   "id": 660035, 
+   "key": "73756e1e-d4b2-4e81-b037-2fab44be5528", 
+   "label": "37"
+  }, 
+  {
+   "attributes": {
+    "direction": "CloseDown"
+   }, 
+   "type": "Blind", 
+   "id": 660036, 
+   "key": "becaef01-7126-4589-b13e-0fde7f968c37", 
+   "label": "38"
+  }, 
+  {
+   "attributes": {
+    "direction": "CloseDown"
+   }, 
+   "type": "Blind", 
+   "id": 660037, 
+   "key": "63f3fb4c-07e7-422e-b212-dfa4aac8bcc1", 
+   "label": "39"
+  }, 
+  {
+   "attributes": {
+    "presets": [
+     "Manual", 
+     "Auto", 
+     "Protection", 
+     "Day", 
+     "Night", 
+     "Standby", 
+     "Comfort"
+    ], 
+    "louverModes": [
+     "Manual", 
+     "Auto", 
+     "Horizontal", 
+     "Angle30", 
+     "Angle45", 
+     "Angle60", 
+     "Vertical"
+    ], 
+    "target": {
+     "max": 308.15, 
+     "step": 0.5, 
+     "min": 278.15
+    }, 
+    "fanSpeedModes": [
+     "Manual", 
+     "Auto", 
+     "Low", 
+     "Medium", 
+     "High", 
+     "Top"
+    ], 
+    "modes": [
+     "Manual", 
+     "Auto", 
+     "Cooling", 
+     "Heating", 
+     "Drying", 
+     "Ventilation", 
+     "HeatPlus", 
+     "Stop"
+    ]
+   }, 
+   "type": "Thermoregulator", 
+   "id": 660051, 
+   "key": "e1abe30a-7a63-4ccb-8480-d111aebb61b7", 
+   "label": "40"
+  }, 
+  {
+   "type": "Shutter", 
+   "id": 660243, 
+   "key": "80400aef-8071-437e-804f-3e3037b2e649", 
+   "label": "41"
+  }, 
+  {
+   "type": "Shutter", 
+   "id": 660244, 
+   "key": "fb02e656-9db6-4212-8cf7-64fa53637c7f", 
+   "label": "42"
+  }, 
+  {
+   "type": "Shutter", 
+   "id": 660245, 
+   "key": "49c9c5f4-411c-454d-ad97-ebebdea7c360", 
+   "label": "43"
+  }
+ ]
+}

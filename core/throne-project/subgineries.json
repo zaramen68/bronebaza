@@ -1,0 +1,207 @@
+{
+ "subgineries": [
+  {
+   "engineries": [
+    635558, 
+    636604, 
+    660051
+   ], 
+   "locationID": 44426, 
+   "key": "1b67e448-7bc6-401a-a8e9-290299c5d445", 
+   "attributes": {
+    "fan": {
+     "presence": false
+    }, 
+    "temperatureSensor": {
+     "presence": true
+    }, 
+    "heatedFloor": {
+     "presence": false
+    }, 
+    "thermoregulator": {
+     "target": {
+      "max": 308.15, 
+      "step": 0.5, 
+      "min": 278.15
+     }, 
+     "presence": true, 
+     "presets": [
+      "Manual", 
+      "Auto", 
+      "Protection", 
+      "Day", 
+      "Night", 
+      "Standby", 
+      "Comfort"
+     ], 
+     "fanSpeedModes": [
+      "Manual", 
+      "Auto", 
+      "Low", 
+      "Medium", 
+      "High", 
+      "Top"
+     ], 
+     "louverModes": [
+      "Manual", 
+      "Auto", 
+      "Horizontal", 
+      "Angle30", 
+      "Angle45", 
+      "Angle60", 
+      "Vertical"
+     ], 
+     "modes": [
+      "Manual", 
+      "Auto", 
+      "Cooling", 
+      "Heating", 
+      "Drying", 
+      "Ventilation", 
+      "HeatPlus", 
+      "Stop"
+     ]
+    }
+   }, 
+   "type": "Climate", 
+   "id": 614510
+  }, 
+  {
+   "locationID": 44426, 
+   "engineries": [
+    614524, 
+    634528, 
+    634529, 
+    634530
+   ], 
+   "type": "Handling", 
+   "id": 614511, 
+   "key": "0ee5cb50-ef16-4eee-85a2-a4d50f28876f"
+  }, 
+  {
+   "locationID": 44426, 
+   "engineries": [
+    659853, 
+    659854, 
+    659855, 
+    635561, 
+    635562, 
+    635563, 
+    635564, 
+    659856, 
+    659939, 
+    659940
+   ], 
+   "type": "Lighting", 
+   "id": 614512, 
+   "key": "a945d3b1-d160-407d-bff6-33186a587504"
+  }, 
+  {
+   "locationID": 44426, 
+   "engineries": [
+    660034, 
+    660243, 
+    660244, 
+    660245, 
+    660035, 
+    660036, 
+    660037
+   ], 
+   "type": "Mechanics", 
+   "id": 614514, 
+   "key": "484150fd-5872-4cec-bbb0-c57d6912975e"
+  }, 
+  {
+   "engineries": [
+    635558, 
+    636604, 
+    660051
+   ], 
+   "locationID": 45281, 
+   "key": "5a2f2b0c-e252-473b-bd6e-d55a3db09e53", 
+   "attributes": {
+    "fan": {
+     "presence": false
+    }, 
+    "temperatureSensor": {
+     "presence": true
+    }, 
+    "heatedFloor": {
+     "presence": false
+    }, 
+    "thermoregulator": {
+     "target": {
+      "max": 308.15, 
+      "step": 0.5, 
+      "min": 278.15
+     }, 
+     "presence": true, 
+     "presets": [
+      "Manual", 
+      "Auto", 
+      "Protection", 
+      "Day", 
+      "Night", 
+      "Standby", 
+      "Comfort"
+     ], 
+     "fanSpeedModes": [
+      "Manual", 
+      "Auto", 
+      "Low", 
+      "Medium", 
+      "High", 
+      "Top"
+     ], 
+     "louverModes": [
+      "Manual", 
+      "Auto", 
+      "Horizontal", 
+      "Angle30", 
+      "Angle45", 
+      "Angle60", 
+      "Vertical"
+     ], 
+     "modes": [
+      "Manual", 
+      "Auto", 
+      "Cooling", 
+      "Heating", 
+      "Drying", 
+      "Ventilation", 
+      "HeatPlus", 
+      "Stop"
+     ]
+    }
+   }, 
+   "type": "Climate", 
+   "id": 634762
+  }, 
+  {
+   "locationID": 45281, 
+   "engineries": [
+    635561, 
+    635562, 
+    635563, 
+    635564, 
+    659856, 
+    659939, 
+    659940
+   ], 
+   "type": "Lighting", 
+   "id": 634764, 
+   "key": "892510cb-9d07-4c8a-abfc-1f94bd330da9"
+  }, 
+  {
+   "locationID": 45281, 
+   "engineries": [
+    660035, 
+    660036, 
+    660037
+   ], 
+   "type": "Mechanics", 
+   "id": 634766, 
+   "key": "be306ee8-92ea-4c68-9043-da8c49f66739"
+  }
+ ]
+}

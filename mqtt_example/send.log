@@ -1,0 +1,17 @@
+Client mosq/tqjgwciIxEKqGstR8I sending CONNECT
+Client mosq/tqjgwciIxEKqGstR8I received CONNACK (0)
+Client mosq/tqjgwciIxEKqGstR8I sending SUBSCRIBE (Mid: 1, Topic: Bus/Send/Mercury/RS485/1, QoS: 0, Options: 0x00)
+Client mosq/tqjgwciIxEKqGstR8I received SUBACK
+Subscribed (mid: 1): 0
+Client mosq/tqjgwciIxEKqGstR8I received PUBLISH (d0, q0, r0, m0, 'Bus/Send/Mercury/RS485/1', ... (16 bytes))
+1E0811214B86#RS6
+Client mosq/tqjgwciIxEKqGstR8I received PUBLISH (d0, q0, r0, m0, 'Bus/Send/Mercury/RS485/1', ... (16 bytes))
+1E0811114B92#RS6
+Client mosq/tqjgwciIxEKqGstR8I received PUBLISH (d0, q0, r0, m0, 'Bus/Send/Mercury/RS485/1', ... (16 bytes))
+1E0811514A62#RS6
+Client mosq/tqjgwciIxEKqGstR8I received PUBLISH (d0, q0, r0, m0, 'Bus/Send/Mercury/RS485/1', ... (16 bytes))
+1E0811020A5F#RS6
+Client mosq/tqjgwciIxEKqGstR8I received PUBLISH (d0, q0, r0, m0, 'Bus/Send/Mercury/RS485/1', ... (16 bytes))
+1E0811060B9C#RS6
+Client mosq/tqjgwciIxEKqGstR8I received PUBLISH (d0, q0, r0, m0, 'Bus/Send/Mercury/RS485/1', ... (16 bytes))
+1E08110A0B99#RS6

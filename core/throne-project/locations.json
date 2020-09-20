@@ -1,0 +1,860 @@
+{
+ "locations": [
+  {
+   "name": "Home", 
+   "models": [
+    {
+     "transitions": [
+      {
+       "locationID": 45281, 
+       "sameLevel": false
+      }
+     ], 
+     "id": 6475, 
+     "controls": [
+      {
+       "engineryID": 614524, 
+       "clickable": true, 
+       "controlArrangement": {
+        "models": [
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6475, 
+          "visibility": true
+         }, 
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6476, 
+          "visibility": true
+         }
+        ], 
+        "position": {
+         "y": 405.595978, 
+         "x": -3.39018965, 
+         "z": 285.370331
+        }, 
+        "widget": [], 
+        "center": {
+         "y": -18.5238819, 
+         "x": -15.5030336, 
+         "z": 222.976837
+        }, 
+        "title": "Title"
+       }
+      }, 
+      {
+       "engineryID": 634528, 
+       "clickable": true, 
+       "controlArrangement": {
+        "models": [
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6475, 
+          "visibility": true
+         }, 
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6476, 
+          "visibility": true
+         }
+        ], 
+        "position": {
+         "y": -4.967461, 
+         "x": -315.595764, 
+         "z": 304.082336
+        }, 
+        "widget": [], 
+        "center": {
+         "y": -37.4611244, 
+         "x": 54.27173, 
+         "z": 222.480331
+        }, 
+        "title": "Title"
+       }
+      }, 
+      {
+       "engineryID": 634529, 
+       "clickable": true, 
+       "controlArrangement": {
+        "models": [
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6475, 
+          "visibility": true
+         }, 
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6476, 
+          "visibility": true
+         }
+        ], 
+        "position": {
+         "y": -345.1389, 
+         "x": 37.5765457, 
+         "z": 279.682617
+        }, 
+        "widget": [], 
+        "center": {
+         "y": 51.47039, 
+         "x": 37.57664, 
+         "z": 208.340851
+        }, 
+        "title": "Title"
+       }
+      }, 
+      {
+       "engineryID": 634530, 
+       "clickable": true, 
+       "controlArrangement": {
+        "models": [
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6475, 
+          "visibility": true
+         }, 
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6476, 
+          "visibility": true
+         }
+        ], 
+        "position": {
+         "y": 5.238233, 
+         "x": 371.0328, 
+         "z": 270.339539
+        }, 
+        "widget": [], 
+        "center": {
+         "y": 32.1673126, 
+         "x": -23.0658627, 
+         "z": 209.668228
+        }, 
+        "title": "Title"
+       }
+      }, 
+      {
+       "engineryID": 635558, 
+       "clickable": true
+      }, 
+      {
+       "engineryID": 636604, 
+       "clickable": true
+      }, 
+      {
+       "engineryID": 659853, 
+       "clickable": true
+      }, 
+      {
+       "engineryID": 659854, 
+       "clickable": true
+      }, 
+      {
+       "engineryID": 659855, 
+       "clickable": true
+      }, 
+      {
+       "engineryID": 660034, 
+       "clickable": true, 
+       "controlArrangement": {
+        "models": [
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6475, 
+          "visibility": true
+         }, 
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6476, 
+          "visibility": true
+         }
+        ], 
+        "position": {
+         "y": -211.993332, 
+         "x": -147.1794, 
+         "z": 351.621155
+        }, 
+        "widget": [], 
+        "center": {
+         "y": -4.19856071, 
+         "x": 39.2705765, 
+         "z": -62.13184
+        }, 
+        "title": "Title"
+       }
+      }, 
+      {
+       "engineryID": 660051, 
+       "clickable": true
+      }, 
+      {
+       "engineryID": 660243, 
+       "clickable": true, 
+       "controlArrangement": {
+        "models": [
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6475, 
+          "visibility": true
+         }, 
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6476, 
+          "visibility": true
+         }
+        ], 
+        "position": {
+         "y": -211.993332, 
+         "x": -147.1794, 
+         "z": 351.621155
+        }, 
+        "widget": [], 
+        "center": {
+         "y": -4.19856071, 
+         "x": 39.2705765, 
+         "z": -62.13184
+        }, 
+        "title": "Title"
+       }
+      }, 
+      {
+       "engineryID": 660244, 
+       "clickable": true, 
+       "controlArrangement": {
+        "models": [
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6475, 
+          "visibility": true
+         }, 
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6476, 
+          "visibility": true
+         }
+        ], 
+        "position": {
+         "y": -211.993332, 
+         "x": -147.1794, 
+         "z": 351.621155
+        }, 
+        "widget": [], 
+        "center": {
+         "y": -4.19856071, 
+         "x": 39.2705765, 
+         "z": -62.13184
+        }, 
+        "title": "Title"
+       }
+      }, 
+      {
+       "engineryID": 660245, 
+       "clickable": true, 
+       "controlArrangement": {
+        "models": [
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6475, 
+          "visibility": true
+         }, 
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6476, 
+          "visibility": true
+         }
+        ], 
+        "position": {
+         "y": -211.993332, 
+         "x": -147.1794, 
+         "z": 351.621155
+        }, 
+        "widget": [], 
+        "center": {
+         "y": -4.19856071, 
+         "x": 39.2705765, 
+         "z": -62.13184
+        }, 
+        "title": "Title"
+       }
+      }, 
+      {
+       "engineryID": 635561, 
+       "clickable": false
+      }, 
+      {
+       "engineryID": 635562, 
+       "clickable": false
+      }, 
+      {
+       "engineryID": 635563, 
+       "clickable": false
+      }, 
+      {
+       "engineryID": 635564, 
+       "clickable": false
+      }, 
+      {
+       "engineryID": 659856, 
+       "clickable": false
+      }, 
+      {
+       "engineryID": 659939, 
+       "clickable": false
+      }, 
+      {
+       "engineryID": 659940, 
+       "clickable": false
+      }, 
+      {
+       "engineryID": 660035, 
+       "clickable": false, 
+       "controlArrangement": {
+        "models": [
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6475, 
+          "visibility": true
+         }, 
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6476, 
+          "visibility": false
+         }
+        ], 
+        "position": {
+         "y": -46.8631248, 
+         "x": 128.529129, 
+         "z": 281.253174
+        }, 
+        "widget": [], 
+        "center": {
+         "y": 24.1673031, 
+         "x": 47.4785957, 
+         "z": 32.040596
+        }, 
+        "title": "Title"
+       }
+      }, 
+      {
+       "engineryID": 660036, 
+       "clickable": false, 
+       "controlArrangement": {
+        "models": [
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6475, 
+          "visibility": true
+         }, 
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6476, 
+          "visibility": false
+         }
+        ], 
+        "position": {
+         "y": -46.8631248, 
+         "x": 128.529129, 
+         "z": 281.253174
+        }, 
+        "widget": [], 
+        "center": {
+         "y": 24.1673031, 
+         "x": 47.4785957, 
+         "z": 32.040596
+        }, 
+        "title": "Title"
+       }
+      }, 
+      {
+       "engineryID": 660037, 
+       "clickable": false, 
+       "controlArrangement": {
+        "models": [
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6475, 
+          "visibility": true
+         }, 
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6476, 
+          "visibility": false
+         }
+        ], 
+        "position": {
+         "y": -46.8631248, 
+         "x": 128.529129, 
+         "z": 281.253174
+        }, 
+        "widget": [], 
+        "center": {
+         "y": 24.1673031, 
+         "x": 47.4785957, 
+         "z": 32.040596
+        }, 
+        "title": "Title"
+       }
+      }
+     ]
+    }, 
+    {
+     "transitions": [], 
+     "id": 6476, 
+     "controls": [
+      {
+       "engineryID": 660051, 
+       "clickable": true
+      }
+     ]
+    }
+   ], 
+   "arrangements": [
+    {
+     "models": [
+      {
+       "position": {
+        "y": 0.0, 
+        "x": 0.0, 
+        "z": 0.0
+       }, 
+       "id": 6475, 
+       "visibility": true
+      }, 
+      {
+       "position": {
+        "y": 0.0, 
+        "x": 0.0, 
+        "z": 0.0
+       }, 
+       "id": 6476, 
+       "visibility": true
+      }
+     ], 
+     "position": {
+      "y": -211.993332, 
+      "x": -147.1794, 
+      "z": 351.621155
+     }, 
+     "widget": [], 
+     "center": {
+      "y": -4.19856071, 
+      "x": 39.2705765, 
+      "z": -62.13184
+     }, 
+     "title": "Title"
+    }, 
+    {
+     "models": [
+      {
+       "position": {
+        "y": 0.0, 
+        "x": 0.0, 
+        "z": 0.0
+       }, 
+       "id": 6475, 
+       "visibility": true
+      }, 
+      {
+       "position": {
+        "y": 0.0, 
+        "x": 0.0, 
+        "z": 0.0
+       }, 
+       "id": 6476, 
+       "visibility": true
+      }
+     ], 
+     "position": {
+      "y": 238.609222, 
+      "x": -213.38002, 
+      "z": 208.6055
+     }, 
+     "widget": [], 
+     "center": {
+      "y": -11.8324184, 
+      "x": 9.789773, 
+      "z": 15.0905037
+     }, 
+     "title": "Title"
+    }, 
+    {
+     "models": [
+      {
+       "position": {
+        "y": 0.0, 
+        "x": 0.0, 
+        "z": 0.0
+       }, 
+       "id": 6475, 
+       "visibility": true
+      }, 
+      {
+       "position": {
+        "y": 0.0, 
+        "x": 0.0, 
+        "z": 0.0
+       }, 
+       "id": 6476, 
+       "visibility": true
+      }
+     ], 
+     "position": {
+      "y": 222.904892, 
+      "x": 283.840759, 
+      "z": 201.6907
+     }, 
+     "widget": [], 
+     "center": {
+      "y": 3.74494457, 
+      "x": -10.360302, 
+      "z": 5.408621
+     }, 
+     "title": "Title"
+    }, 
+    {
+     "models": [
+      {
+       "position": {
+        "y": 0.0, 
+        "x": 0.0, 
+        "z": 0.0
+       }, 
+       "id": 6475, 
+       "visibility": true
+      }, 
+      {
+       "position": {
+        "y": 0.0, 
+        "x": 0.0, 
+        "z": 0.0
+       }, 
+       "id": 6476, 
+       "visibility": true
+      }
+     ], 
+     "position": {
+      "y": -140.5809, 
+      "x": 227.81041, 
+      "z": 350.094177
+     }, 
+     "widget": [], 
+     "center": {
+      "y": 78.7320251, 
+      "x": -50.3480034, 
+      "z": -189.624008
+     }, 
+     "title": "Title"
+    }
+   ], 
+   "key": "936f3539-3a17-468a-afdf-e1d999eef70a", 
+   "navigations": [
+    44426
+   ], 
+   "id": 44426
+  }, 
+  {
+   "name": "\u0421\u0430\u043b\u043e\u043d", 
+   "models": [
+    {
+     "transitions": [], 
+     "id": 6475, 
+     "controls": [
+      {
+       "engineryID": 635561, 
+       "clickable": true
+      }, 
+      {
+       "engineryID": 635562, 
+       "clickable": true
+      }, 
+      {
+       "engineryID": 635563, 
+       "clickable": true
+      }, 
+      {
+       "engineryID": 635564, 
+       "clickable": true
+      }, 
+      {
+       "engineryID": 635558, 
+       "clickable": true
+      }, 
+      {
+       "engineryID": 636604, 
+       "clickable": true
+      }, 
+      {
+       "engineryID": 659856, 
+       "clickable": true
+      }, 
+      {
+       "engineryID": 659939, 
+       "clickable": true
+      }, 
+      {
+       "engineryID": 659940, 
+       "clickable": true
+      }, 
+      {
+       "engineryID": 660051, 
+       "clickable": true
+      }, 
+      {
+       "engineryID": 660035, 
+       "clickable": true, 
+       "controlArrangement": {
+        "models": [
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6475, 
+          "visibility": true
+         }, 
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6476, 
+          "visibility": false
+         }
+        ], 
+        "position": {
+         "y": -46.8631248, 
+         "x": 128.529129, 
+         "z": 281.253174
+        }, 
+        "widget": [], 
+        "center": {
+         "y": 24.1673031, 
+         "x": 47.4785957, 
+         "z": 32.040596
+        }, 
+        "title": "Title"
+       }
+      }, 
+      {
+       "engineryID": 660036, 
+       "clickable": true, 
+       "controlArrangement": {
+        "models": [
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6475, 
+          "visibility": true
+         }, 
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6476, 
+          "visibility": false
+         }
+        ], 
+        "position": {
+         "y": -46.8631248, 
+         "x": 128.529129, 
+         "z": 281.253174
+        }, 
+        "widget": [], 
+        "center": {
+         "y": 24.1673031, 
+         "x": 47.4785957, 
+         "z": 32.040596
+        }, 
+        "title": "Title"
+       }
+      }, 
+      {
+       "engineryID": 660037, 
+       "clickable": true, 
+       "controlArrangement": {
+        "models": [
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6475, 
+          "visibility": true
+         }, 
+         {
+          "position": {
+           "y": 0.0, 
+           "x": 0.0, 
+           "z": 0.0
+          }, 
+          "id": 6476, 
+          "visibility": false
+         }
+        ], 
+        "position": {
+         "y": -46.8631248, 
+         "x": 128.529129, 
+         "z": 281.253174
+        }, 
+        "widget": [], 
+        "center": {
+         "y": 24.1673031, 
+         "x": 47.4785957, 
+         "z": 32.040596
+        }, 
+        "title": "Title"
+       }
+      }
+     ]
+    }, 
+    {
+     "transitions": [], 
+     "id": 6476, 
+     "controls": [
+      {
+       "engineryID": 660051, 
+       "clickable": true
+      }
+     ]
+    }
+   ], 
+   "arrangements": [
+    {
+     "models": [
+      {
+       "position": {
+        "y": 0.0, 
+        "x": 0.0, 
+        "z": 0.0
+       }, 
+       "id": 6475, 
+       "visibility": true
+      }, 
+      {
+       "position": {
+        "y": 0.0, 
+        "x": 0.0, 
+        "z": 0.0
+       }, 
+       "id": 6476, 
+       "visibility": false
+      }
+     ], 
+     "position": {
+      "y": -46.8631248, 
+      "x": 128.529129, 
+      "z": 281.253174
+     }, 
+     "widget": [], 
+     "center": {
+      "y": 24.1673031, 
+      "x": 47.4785957, 
+      "z": 32.040596
+     }, 
+     "title": "Title"
+    }
+   ], 
+   "key": "a38ade55-cb22-4b1f-a774-b75c9d8ff7e5", 
+   "navigations": [
+    44426, 
+    45281
+   ], 
+   "id": 45281
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "header": {
+  "project": {
+   "cloudCode": "386966885678", 
+   "name": "\u041f\u0430\u043d\u0433\u043e\u043b\u0438\u043d", 
+   "pin": "1234", 
+   "title": "\u041f\u0430\u043d\u0433\u043e\u043b\u0438\u043d", 
+   "rootLocationID": 44426, 
+   "id": 2434
+  }, 
+  "version": "TF08", 
+  "firmware": {
+   "builder": "4.7.0", 
+   "build": 61, 
+   "key": "c567c513-15dc-4a2c-aec7-a92e469c59b8", 
+   "date": "2020-09-04T14:40:03.151225", 
+   "type": "Commercial", 
+   "user": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0425\u0443\u0434\u044f\u043a\u043e\u0432"
+  }
+ }
+}

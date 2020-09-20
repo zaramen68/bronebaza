@@ -1,0 +1,11 @@
+Client mosq/IeGuT6iUQFnahJoMjo sending CONNECT
+Client mosq/IeGuT6iUQFnahJoMjo received CONNACK (0)
+Client mosq/IeGuT6iUQFnahJoMjo sending SUBSCRIBE (Mid: 1, Topic: Bus/Dump/Mercury/RS485/1, QoS: 0, Options: 0x00)
+Client mosq/IeGuT6iUQFnahJoMjo received SUBACK
+Subscribed (mid: 1): 0
+Client mosq/IeGuT6iUQFnahJoMjo received PUBLISH (d0, q0, r0, m0, 'Bus/Dump/Mercury/RS485/1', ... (12 bytes))
+1e00485831f6
+Client mosq/IeGuT6iUQFnahJoMjo received PUBLISH (d0, q0, r0, m0, 'Bus/Dump/Mercury/RS485/1', ... (12 bytes))
+1e00bc2ef6d0
+Client mosq/IeGuT6iUQFnahJoMjo received PUBLISH (d0, q0, r0, m0, 'Bus/Dump/Mercury/RS485/1', ... (12 bytes))
+1e42f57ce0a9

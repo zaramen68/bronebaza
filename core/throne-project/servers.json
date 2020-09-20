@@ -1,0 +1,16 @@
+{
+ "servers": [
+  {
+   "attributes": {
+    "ip": "192.168.1.1", 
+    "failureOffset": 1, 
+    "port": 55555, 
+    "tickRate": 60
+   }, 
+   "type": "Lite", 
+   "id": 2537, 
+   "key": "830d4e34-f108-4ed0-8c36-faa3aece3296", 
+   "name": "THRONE Server"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+include: ['D:\PycharmProjects\spread-core\spread_core\broker.yaml']
+PROJ: '2434'
+BUS_ID: '635558'
+BUS_HOST: '192.168.1.172'
+BUS_PORT: 502
+BUS_HOST_PORT: [['192.168.1.172', 502, ['000100000006100301020002']],]
+
+BUS_TIMEOUT: 3
+KILL_TIMEOUT: 3
+DUMP: false
