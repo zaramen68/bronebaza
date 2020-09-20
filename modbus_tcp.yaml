@@ -1,4 +1,4 @@
-include: ['C:\projects\pangolin\spread_core\broker.yaml']
+include: ['C:\projects\pangolin\core\broker.yaml']
 PROJ: '2434'
 BUS_ID: '635558'
 BUS_HOST: '10.10.1.178'

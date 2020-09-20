@@ -188,14 +188,14 @@ class ModBusTCPAdapterLauncher(Launcher):
                                             if tk == 1:
                                                 # Дверь открыта
 
-                                                value='True'
+                                                value=True
                                                 #  Запомнить состояние освещения
                                                 #     погасить свет
                                                 #
                                                 #
 
                                             if tk == 0:
-                                                value='False'
+                                                value=False
 
                                             #value = VariableTRS3(None, int(BUS_ID), 0, tk)
                                             #top_out = topic_dump.format(PROJECT, BUS_ID, '0')
